@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by instagram
+- 📫 Reach me by instagram
 
 <!---
 rythmb/rythmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
